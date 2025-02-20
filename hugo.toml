@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseurl = "https://alexcarrilloar.github.io/blog/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
