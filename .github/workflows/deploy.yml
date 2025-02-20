@@ -1,0 +1,29 @@
+# .github/workflows/deploy.yml
+name: Deploy Hugo Site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Cambia a tu branch principal si es diferente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Install Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: 'latest'
+
+    - name: Build site
+      run: hugo --minify  # Construye el sitio con Hugo, usando minificación
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public  # La carpeta donde Hugo genera el sitio

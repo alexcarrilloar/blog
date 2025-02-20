@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Software Engineering - Category - Alex Carrillo - Heart and Soul</title>
+        <link>http://localhost:1313/categories/software-engineering/</link>
+        <description>Software Engineering - Category - Alex Carrillo - Heart and Soul</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 20 Jan 2025 19:33:27 -0600</lastBuildDate><atom:link href="http://localhost:1313/categories/software-engineering/" rel="self" type="application/rss+xml" /><item>
+    <title>Yes, it can be</title>
+    <link>http://localhost:1313/posts/yesitcanbe/</link>
+    <pubDate>Mon, 20 Jan 2025 19:33:27 -0600</pubDate>
+    <author>Alex Carrillo</author>
+    <guid>http://localhost:1313/posts/yesitcanbe/</guid>
+    <description><![CDATA[<p>#hello world</p>]]></description>
+</item>
+</channel>
+</rss>

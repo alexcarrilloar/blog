@@ -1,0 +1,134 @@
+baseURL = "http://localhost:1313/"
+
+# Change the default theme to be use when building the site with Hugo
+theme = "LoveIt"
+
+# website title
+title = "Alex Carrillo - Heart and Soul"
+
+# language code ["en", "zh-CN", "fr", "pl", ...]
+languageCode = "en"
+
+[menu]
+  [[menu.main]]
+    weight = 1
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    # title will be shown when you hover on this menu link
+    title = "Place for my memories"
+
+ [params.meta]
+  favicon = true
+
+ [params.header.title]
+      # URL of the LOGO
+      logo = ""
+      # title name
+      name = ">cd /home"
+      # you can add extra information before the name (HTML format is supported), such as icons
+      pre = ""
+      # you can add extra information after the name (HTML format is supported), such as icons
+      post = ""
+      # whether to use typeit animation for title name
+      typeit = false
+
+
+    
+
+[params.footer]
+    enable = true
+    # LoveIt NEW | 0.2.0 Custom content (HTML format is supported)
+    custom = 'Alex Carrillo | All rights reserved.'
+    # LoveIt NEW | 0.2.0 whether to show Hugo and theme info
+    hugo = false
+    # LoveIt NEW | 0.2.0 whether to show copyright info
+    copyright = true
+    # LoveIt NEW | 0.2.0 whether to show the author
+    author = false
+    # Site creation time
+    since = 2025
+    # ICP info only in China (HTML format is supported)
+    icp = ""
+
+[params.search]
+    enable = true
+    # type of search engine ["lunr", "algolia"]
+    type = "lunr"
+    # max index length of the chunked content
+    contentLength = 4000
+    # placeholder of the search bar
+    placeholder = ""
+    # LoveIt NEW | 0.2.1 max number of results length
+    maxResultLength = 10
+    # LoveIt NEW | 0.2.3 snippet length of the result
+    snippetLength = 30
+    # LoveIt NEW | 0.2.1 HTML tag name of the highlight part in results
+    highlightTag = "em"
+    # LoveIt NEW | 0.2.4 whether to use the absolute URL based on the baseURL in search index
+    absoluteURL = false
+    [params.search.algolia]
+      index = ""
+      appID = ""
+      searchKey = ""
+
+
+# Home page config
+  [params.home]
+    # Home page profile
+    [params.home.profile]
+      enable = true
+      # URL of avatar shown in home page
+      avatarURL = "/images/avatar.png"
+      # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
+      title = "Alex Carrillo"
+      # subtitle shown in home page (HTML format is supported)
+      subtitle = "Senior Software Engineer"
+      # whether to use typeit animation for subtitle
+      typeit = false
+      # whether to show social links
+      social = true
+      # LoveIt NEW | 0.2.0 disclaimer (HTML format is supported)
+      disclaimer = "👋 Hi there! I'm Alex, and I'm passionate about continuous learning and driven to explore new possibilities. My interests include <strong>Backend Development</strong>, <strong>Software Architecture</strong>, and <strong>Cloud Computing</strong>."
+    # Home page posts
+    [params.home.posts]
+      enable = true
+      # special amount of posts in each home posts page
+      paginate = 6
+      # LoveIt DELETED | 0.2.0 replaced with hiddenFromHomePage in params.page
+      # default behavior when you don't set "hiddenFromHomePage" in front matter
+      defaultHiddenFromHomePage = false
+
+[params.social]
+    GitHub = "xxxx"
+    Linkedin = "df"
+    Email = "alexcarrilloar@outlook.com"
+
+ [params.page.share]
+      enable = false
+      Twitter = false
+      Facebook = false
+      Linkedin = false
+      Whatsapp = false
+      Pinterest = false
+      Tumblr = false
+      HackerNews = false
+      Reddit = false
+      VK = false
+      Buffer = false
+      Xing = false
+      Line = false
+      Instapaper = false
+      Pocket = false
+      Flipboard = false
+      Weibo = false
+      Blogger = false
+      Baidu = false
+      Odnoklassniki = false
+      Evernote = false
+      Skype = false
+      Trello = false
+      Mix = false
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
