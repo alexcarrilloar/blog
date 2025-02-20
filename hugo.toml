@@ -100,8 +100,8 @@ languageCode = "en"
       defaultHiddenFromHomePage = false
 
 [params.social]
-    GitHub = "https://github.com/alexcarrilloar"
-    Linkedin = "https://www.linkedin.com/in/alejandrocarrillo950623/"
+    GitHub = "alexcarrilloar"
+    Linkedin = "alejandrocarrillo950623"
     Email = "alexcarrilloar@outlook.com"
 
  [params.page.share]
