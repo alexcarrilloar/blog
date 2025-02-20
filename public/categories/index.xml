@@ -1,7 +1,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Category - Alex Carrillo - Heart and Soul</title>
-        <link>http://localhost:1313/blog/categories/</link>
+        <link>http://localhost:62769/blog/categories/</link>
         <description>Categories - Category - Alex Carrillo - Heart and Soul</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://localhost:1313/blog/categories/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://localhost:62769/blog/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>

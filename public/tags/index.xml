@@ -1,22 +1,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Tag - Alex Carrillo - Heart and Soul</title>
-        <link>http://localhost:1313/blog/tags/</link>
+        <link>http://localhost:62769/blog/tags/</link>
         <description>Tags - Tag - Alex Carrillo - Heart and Soul</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 20 Jan 2025 19:33:27 -0600</lastBuildDate><atom:link href="http://localhost:1313/blog/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 20 Jan 2025 19:33:27 -0600</lastBuildDate><atom:link href="http://localhost:62769/blog/tags/" rel="self" type="application/rss+xml" /><item>
     <title>Leadership</title>
-    <link>http://localhost:1313/blog/tags/leadership/</link>
+    <link>http://localhost:62769/blog/tags/leadership/</link>
     <pubDate>Mon, 20 Jan 2025 19:33:27 -0600</pubDate>
     <author>Author</author>
-    <guid>http://localhost:1313/blog/tags/leadership/</guid>
+    <guid>http://localhost:62769/blog/tags/leadership/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Soft-Skills</title>
-    <link>http://localhost:1313/blog/tags/soft-skills/</link>
+    <link>http://localhost:62769/blog/tags/soft-skills/</link>
     <pubDate>Mon, 20 Jan 2025 19:33:27 -0600</pubDate>
     <author>Author</author>
-    <guid>http://localhost:1313/blog/tags/soft-skills/</guid>
+    <guid>http://localhost:62769/blog/tags/soft-skills/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
