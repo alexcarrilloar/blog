@@ -89,7 +89,7 @@ languageCode = "en"
       # whether to show social links
       social = true
       # LoveIt NEW | 0.2.0 disclaimer (HTML format is supported)
-      disclaimer = "👋 Hi there! I'm Alex, and I'm passionate about continuous learning and driven to explore new possibilities. My interests include <strong>Backend Development</strong>, <strong>Software Architecture</strong>, and <strong>Cloud Computing</strong>."
+      disclaimer = "👋 Hi there! I'm Alex, and I'm passionate about continuous learning and driven to explore new possibilities. My interests include <strong>Backend Development</strong>, <strong>Software Architecture</strong>, <strong>Cloud Computing</strong>, and <strong>Artificial Intelligence</strong>."
     # Home page posts
     [params.home.posts]
       enable = true
