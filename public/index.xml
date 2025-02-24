@@ -2,7 +2,7 @@
     <channel>
         <title>Alex Carrillo - Heart and Soul</title>
         <link>http://localhost:1313/blog/</link>
-        <description>This is my cool site</description>
+        <description>A place for my memories</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 20 Jan 2025 19:33:27 -0600</lastBuildDate>
             <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
         <item>
