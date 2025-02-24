@@ -6,6 +6,8 @@ theme = "LoveIt"
 # website title
 title = "Alex Carrillo - Heart and Soul"
 
+description = "A place for my memories"
+
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en"
 
