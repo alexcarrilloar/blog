@@ -3,7 +3,18 @@
         <title>All Posts - Alex Carrillo - Heart and Soul</title>
         <link>http://localhost:1313/blog/posts/</link>
         <description>All Posts | Alex Carrillo - Heart and Soul</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 20 Jan 2025 19:33:27 -0600</lastBuildDate><atom:link href="http://localhost:1313/blog/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 24 Apr 2025 19:33:27 -0600</lastBuildDate><atom:link href="http://localhost:1313/blog/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Zombies of Value: How Good Intentions Kills Ownership</title>
+    <link>http://localhost:1313/blog/posts/zombiesofvalue/</link>
+    <pubDate>Thu, 24 Apr 2025 19:33:27 -0600</pubDate>
+    <author>Alex Carrillo</author>
+    <guid>http://localhost:1313/blog/posts/zombiesofvalue/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/blog/yesitcanbe.jpg" referrerpolicy="no-referrer">
+            </div><p>Not all bugs live in codem, some start with people. Recently,a conversation with a friend who’s a Product Manager led me down a different path, one that doesn’t start with an error message or a failing test case, but with something subtler: behavior.</p>
+<p>She recommended me the book “What Got You Here Won’t Get You There” by Marshall Goldsmith, and one idea that stood out to me was the concept of “Adding Too Much Value.” It hit close to home because I’ve experienced that, and that perspective has deeply influenced how I show up in a team.</p>]]></description>
+</item>
+<item>
     <title>Yes, it is possible</title>
     <link>http://localhost:1313/blog/posts/yesitispossible/</link>
     <pubDate>Mon, 20 Jan 2025 19:33:27 -0600</pubDate>
