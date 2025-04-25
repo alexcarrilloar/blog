@@ -5,9 +5,9 @@ draft = false
 theme = 'LoveIt'
 author = 'Alex Carrillo'
 tags = ['leadership', 'soft-skills']
-featuredImage = 'yesitcanbe.jpg'
-featuredImagePreview = 'yesitcanbe.jpg'
-images = ['images/yesitcanbe.jpg']
+featuredImage = 'yesno.png'
+featuredImagePreview = 'yesno.png'
+images = ['images/yesno.png']
 +++
 
 Throughout my career as a Software Engineer, I’ve had the chance to face a wide range of software errors, from isolated cases to full system failures. 
