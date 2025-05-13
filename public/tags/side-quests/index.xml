@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Side-Quests - Tag - Alex Carrillo - Heart and Soul</title>
+        <link>http://localhost:1313/blog/tags/side-quests/</link>
+        <description>Side-Quests - Tag - Alex Carrillo - Heart and Soul</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 12 May 2025 19:33:27 -0600</lastBuildDate><atom:link href="http://localhost:1313/blog/tags/side-quests/" rel="self" type="application/rss+xml" /><item>
+    <title>Whatsapp Bot</title>
+    <link>http://localhost:1313/blog/posts/whatsappbot/</link>
+    <pubDate>Mon, 12 May 2025 19:33:27 -0600</pubDate>
+    <author>Alex Carrillo</author>
+    <guid>http://localhost:1313/blog/posts/whatsappbot/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/blog/s3patients.png" referrerpolicy="no-referrer">
+            </div><p>Last week, I went to the ophthalmologist to get my vision checked. You know, just the usual: reading tiny letters on a chart, and the doctor asking if &ldquo;this one or that one&rdquo; looks clearer. But midway through the appointment, something unexpected happened.</p>
+<p>As he was examining my eyes, we started chatting. At one point, he asked what I do for a living. I mentioned I work in software development, and suddenly he seemed more curious, kind of like when someone realizes you might be able to fix that annoying tech problem they’ve been silently suffering with.</p>]]></description>
+</item>
+</channel>
+</rss>

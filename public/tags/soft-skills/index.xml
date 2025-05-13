@@ -3,7 +3,19 @@
         <title>Soft-Skills - Tag - Alex Carrillo - Heart and Soul</title>
         <link>http://localhost:1313/blog/tags/soft-skills/</link>
         <description>Soft-Skills - Tag - Alex Carrillo - Heart and Soul</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 24 Apr 2025 19:33:27 -0600</lastBuildDate><atom:link href="http://localhost:1313/blog/tags/soft-skills/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 05 May 2025 19:33:27 -0600</lastBuildDate><atom:link href="http://localhost:1313/blog/tags/soft-skills/" rel="self" type="application/rss+xml" /><item>
+    <title>Vanity Metrics: The KDA of Developers</title>
+    <link>http://localhost:1313/blog/posts/vanitymetrics/</link>
+    <pubDate>Mon, 05 May 2025 19:33:27 -0600</pubDate>
+    <author>Alex Carrillo</author>
+    <guid>http://localhost:1313/blog/posts/vanitymetrics/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/blog/valorant.png" referrerpolicy="no-referrer">
+            </div><p>Someone asked me:<br>
+<em>&ldquo;Hey, can you accept my pull request? And if possible… could you travel back in time so the average resolution time doesn’t go up?&rdquo;</em> I laughed. But deep down, I knew I’d heard versions of that line <em>way</em> too many times lately.</p>
+<p>Somewhere along the way, we confused <strong>metrics</strong> with <strong>meaning</strong>. There’s this phrase floating around in the IT world: <em>“You can’t improve what you can’t measure.”</em> And sure, it has its place. It helps us stay grounded, know where we are, and track progress. But I’ve been thinking more about Aristotle lately, specifically his idea of virtue being the balance between extremes. Not too little, not too much. Just right. (Thanks Mateus, <a href="https://mindshop.cafe/" target="_blank" rel="noopener noreffer ">Mindshop</a> really helps). 💡</p>]]></description>
+</item>
+<item>
     <title>Zombies of Value: How Good Intentions Kills Ownership</title>
     <link>http://localhost:1313/blog/posts/zombiesofvalue/</link>
     <pubDate>Thu, 24 Apr 2025 19:33:27 -0600</pubDate>

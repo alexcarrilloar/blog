@@ -3,10 +3,26 @@
         <title>Tags - Tag - Alex Carrillo - Heart and Soul</title>
         <link>http://localhost:1313/blog/tags/</link>
         <description>Tags - Tag - Alex Carrillo - Heart and Soul</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 24 Apr 2025 19:33:27 -0600</lastBuildDate><atom:link href="http://localhost:1313/blog/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 12 May 2025 19:33:27 -0600</lastBuildDate><atom:link href="http://localhost:1313/blog/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Side-Quests</title>
+    <link>http://localhost:1313/blog/tags/side-quests/</link>
+    <pubDate>Mon, 12 May 2025 19:33:27 -0600</pubDate>
+    <author>Author</author>
+    <guid>http://localhost:1313/blog/tags/side-quests/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Software</title>
+    <link>http://localhost:1313/blog/tags/software/</link>
+    <pubDate>Mon, 12 May 2025 19:33:27 -0600</pubDate>
+    <author>Author</author>
+    <guid>http://localhost:1313/blog/tags/software/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>Leadership</title>
     <link>http://localhost:1313/blog/tags/leadership/</link>
-    <pubDate>Thu, 24 Apr 2025 19:33:27 -0600</pubDate>
+    <pubDate>Mon, 05 May 2025 19:33:27 -0600</pubDate>
     <author>Author</author>
     <guid>http://localhost:1313/blog/tags/leadership/</guid>
     <description><![CDATA[]]></description>
@@ -14,7 +30,7 @@
 <item>
     <title>Soft-Skills</title>
     <link>http://localhost:1313/blog/tags/soft-skills/</link>
-    <pubDate>Thu, 24 Apr 2025 19:33:27 -0600</pubDate>
+    <pubDate>Mon, 05 May 2025 19:33:27 -0600</pubDate>
     <author>Author</author>
     <guid>http://localhost:1313/blog/tags/soft-skills/</guid>
     <description><![CDATA[]]></description>
