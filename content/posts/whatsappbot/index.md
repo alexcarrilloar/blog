@@ -101,7 +101,7 @@ else:
 
 {{< rawhtml >}}    
     <video playsinline controls="true" style="border:solid;" height="500rem" width=100% controls autoplay>
-        <source src="/blog/videos/whatsappbot.webm" type="video/webm">
+        <source src="/blog/videos/whatsappbot.mov" type="video/mp4">
     Your browser does not support the video tag.  
     </video>
 {{< /rawhtml >}}
