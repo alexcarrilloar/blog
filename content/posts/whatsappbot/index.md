@@ -22,7 +22,7 @@ Instead, he asked,
 
 He explained to me that sometimes he loses track of which patients need to receive their eye scans, and other times he just forgets because of how busy his schedule gets.
 
-He already works with a media agency that has a WhatsApp Business account, but none of them know how to do it.
+He already works with a social media agency that has a WhatsApp Business account, but none of them know how to do it.
 
 Challenge accepted. 💪
 
