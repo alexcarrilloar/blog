@@ -1,6 +1,6 @@
 +++
 date = '2025-05-12T19:33:27-06:00'
-title = 'From Eye Exam to a WhatsApp Bot'
+title = 'From an Eye Exam to a WhatsApp Bot'
 draft = false
 theme = 'LoveIt'
 author = 'Alex Carrillo'
