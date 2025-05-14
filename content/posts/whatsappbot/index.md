@@ -1,6 +1,6 @@
 +++
 date = '2025-05-12T19:33:27-06:00'
-title = 'From Eye Exam to WhatsApp Automation Bot'
+title = 'From Eye Exam to a WhatsApp Bot'
 draft = false
 theme = 'LoveIt'
 author = 'Alex Carrillo'
@@ -16,13 +16,13 @@ As he was examining my eyes, we started chatting. At one point, he asked what I 
 
 **(Fortunately, he didn’t ask me to fix his printer — close call. 😅)**
 
-Instead, he leaned in a bit and asked,
+Instead, he asked,
 
 **“Hey, would it be too complicated to build something that sends images to patients via WhatsApp?”**
 
 He explained to me that sometimes he loses track of which patients need to receive their eye scans, and other times he just forgets because of how busy his schedule gets.
 
-Turns out, he already has a marketing team using a WhatsApp Business account, but none of them know how to do it.
+He already works with a media agency that has a WhatsApp Business account, but none of them know how to do it.
 
 Challenge accepted. 💪
 
@@ -77,7 +77,7 @@ if response.status_code == 200:
 ## 📇 3. Sends the image to the patient’s WhatsApp number
 Now we just use the image ID and send it directly to the patient.
 
-```python      
+```python {linenos=inline}
 RECIPIENT_PHONE_NUMBER = 'patient_phone_number_her
 message_url = f"https://graph.facebook.com/{VERSION}/{PHONE_NUMBER_ID}/messages"
 message_data = {
@@ -100,7 +100,7 @@ else:
 ## 📇 4. Final Result
 
 {{< rawhtml >}}    
-    <video height="500rem" width=100% controls autoplay>
+    <video style="border:solid;" height="500rem" width=100% controls autoplay>
         <source src="/blog/videos/whatsappbot.webm" type="video/webm">
     Your browser does not support the video tag.  
     </video>
@@ -109,4 +109,4 @@ else:
 ---
 ## 🧠 Final Thoughts
 
-What started as a spontaneous idea turned into a fun little side quest. Who knows, maybe next time I visit, I’ll show him this post and we’ll talk about turning it into something real. 😄
+What began as a simple conversation turned into a little side-quest. Who knows, maybe next time I visit, I’ll share this post, and we’ll explore the possibility of turning it into something real 😄
