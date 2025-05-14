@@ -100,7 +100,7 @@ else:
 ## 📇 4. Final Result
 
 {{< rawhtml >}}    
-    <video playsinline style="border:solid;" height="500rem" width=100% controls autoplay>
+    <video playsinline controls="true" style="border:solid;" height="500rem" width=100% controls autoplay>
         <source src="/blog/videos/whatsappbot.webm" type="video/webm">
     Your browser does not support the video tag.  
     </video>
