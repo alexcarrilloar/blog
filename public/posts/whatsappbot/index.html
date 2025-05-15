@@ -138,14 +138,10 @@ As he was examining my eyes, we started chatting. At one point, he asked what I 
 <hr>
 <h2 id="-1-connect-to-aws-s3-to-download-images">🔗 1. Connect to AWS S3 to Download Images</h2>
 <p>Here we connect to an S3 bucket where the eye scan images are stored. We initiate a session with AWS and prepare a list of images to be sent.</p>
-<p><img
-        class="lazyload"
-        src="/blog/svg/loading.min.svg"
-        data-src="/blog/posts/whatsappbot/s3patients.png"
-        data-srcset="/blog/posts/whatsappbot/s3patients.png, /blog/posts/whatsappbot/s3patients.png 1.5x, /blog/posts/whatsappbot/s3patients.png 2x"
-        data-sizes="auto"
-        alt="/blog/posts/whatsappbot/s3patients.png"
-        title="alt" width="700" height="471" /></p>
+
+   
+<img src="s3patients.png" alt="S3 Image" />
+
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="c1"># S3 bucket setup</span>
 </span></span><span class="line"><span class="cl"><span class="n">BUCKET_NAME</span> <span class="o">=</span> <span class="s1">&#39;s3-ophthalmologist-patients&#39;</span>
 </span></span><span class="line"><span class="cl"><span class="n">session</span> <span class="o">=</span> <span class="n">boto3</span><span class="o">.</span><span class="n">Session</span><span class="p">()</span>

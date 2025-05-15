@@ -36,7 +36,9 @@ A couple of hours later, I had a quick automation bot up and running, fetching i
 
 Here we connect to an S3 bucket where the eye scan images are stored. We initiate a session with AWS and prepare a list of images to be sent.
 
-![alt](s3patients.png)
+{{< rawhtml >}}   
+<img src="s3patients.png" alt="S3 Image" />
+{{< /rawhtml >}}   
 
 ```python
 # S3 bucket setup
