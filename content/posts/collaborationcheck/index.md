@@ -40,6 +40,4 @@ Because when someone helps shape a decision, they’re way more likely to care a
 But if they’re just handed a diagram? They’ll nod, maybe ask a question or two, and then go back to whatever they were doing before.
 That’s how teams end up shipping something no one’s really proud of. Or worse, something no one truly understands. 
 
-That moment stuck with me. It reminded me that if you want people to care deeply about something, you have to bring them in early. Not just to review the plan, but to help create it. That’s where real collaboration lives. 
-
-Not in neat presentations, but in the real work, the part where ideas are tested, questioned, and built.
+That moment stuck with me. It reminded me that if you want people to care deeply about something, you have to bring them in early. Not just to review the plan, but to help create it. That’s where real collaboration lives, not in neat presentations, but in the real work, the part where ideas are tested, questioned, and built.
