@@ -3,7 +3,19 @@
         <title>Leadership - Tag - Alex Carrillo - Heart and Soul</title>
         <link>http://localhost:1313/blog/tags/leadership/</link>
         <description>Leadership - Tag - Alex Carrillo - Heart and Soul</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 05 May 2025 19:33:27 -0600</lastBuildDate><atom:link href="http://localhost:1313/blog/tags/leadership/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 02 Jun 2025 19:33:27 -0600</lastBuildDate><atom:link href="http://localhost:1313/blog/tags/leadership/" rel="self" type="application/rss+xml" /><item>
+    <title>Collaboration Isn&#39;t a Checkbox</title>
+    <link>http://localhost:1313/blog/posts/collaborationcheck/</link>
+    <pubDate>Mon, 02 Jun 2025 19:33:27 -0600</pubDate>
+    <author>Alex Carrillo</author>
+    <guid>http://localhost:1313/blog/posts/collaborationcheck/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/blog/valorant.png" referrerpolicy="no-referrer">
+            </div><p>When “leadership” means control, and “collaboration” is just a fancy way to say: “Here’s what we’ve already decided, you’re just here so it looks like you were involved.”</p>
+<p>And I get it. I’ve done it too. 🙋‍♂️</p>
+<p>There’s this subtle thing that happens in some teams. You walk into a meeting, maybe a sprint planning, maybe a refinement, and there is something already prepared. The architecture is drawn. The decisions are made. But the team is asked for “input.”</p>]]></description>
+</item>
+<item>
     <title>Vanity Metrics: The KDA of Developers</title>
     <link>http://localhost:1313/blog/posts/vanitymetrics/</link>
     <pubDate>Mon, 05 May 2025 19:33:27 -0600</pubDate>
