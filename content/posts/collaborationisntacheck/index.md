@@ -20,7 +20,7 @@ And I get it. I’ve done it too. 🙋‍♂️
 
 There’s this subtle thing that happens in some teams. You walk into a meeting, maybe a sprint planning, maybe a refinement, and there is something already prepared. The architecture is drawn. The decisions are made. But the team is asked for “input.”
 
-It’s not input. It’s a Collaboration Contract. **You’re not being asked to co-create; you’re being asked to agree.** 🤝
+It’s not input. It’s a _Collaboration Contract._ **You’re not being asked to co-create; you’re being asked to agree.** 🤝
 
 In one project, I had the chance to lead something that was really important for the company. I gathered requirements, met with users for days, took notes, explored edge cases… and then I went off to design the whole thing. I drew **The Diagram**.✨ You know the one: boxes, arrows, maybe some color-coded components if I was feeling fancy. It was clean. It was logical. It made sense. I was proud of it. I called a meeting, shared my screen, and presented it to the team.
 
