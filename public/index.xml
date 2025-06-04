@@ -7,10 +7,10 @@
             <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Collaboration Isn&#39;t a Checkbox</title>
-    <link>http://localhost:1313/blog/posts/collaborationcheck/</link>
+    <link>http://localhost:1313/blog/posts/collaborationisntacheck/</link>
     <pubDate>Mon, 02 Jun 2025 19:33:27 -0600</pubDate>
     <author>Alex Carrillo</author>
-    <guid>http://localhost:1313/blog/posts/collaborationcheck/</guid>
+    <guid>http://localhost:1313/blog/posts/collaborationisntacheck/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/blog/footballdiagram.jpg" referrerpolicy="no-referrer">
             </div><p>When “leadership” means control, and “collaboration” is just a fancy way to say:</p>
