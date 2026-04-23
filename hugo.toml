@@ -92,7 +92,7 @@ languageCode = "en"
       # whether to show social links
       social = true
       # LoveIt NEW | 0.2.0 disclaimer (HTML format is supported)
-      disclaimer = "👋 Hi there! I'm Alex, and I'm passionate about continuous learning and driven to explore new possibilities. My interests include <strong>Backend Development</strong>, <strong>Software Architecture</strong>, <strong>Cloud Computing</strong>, and <strong>Artificial Intelligence</strong>."
+      disclaimer = "👋 Hi there! I'm Alex, and I'm passionate about continuous learning and driven to explore new possibilities. My interests include <strong>Backend Development</strong>, <strong>Software Architecture</strong>, <strong>Cloud Computing</strong>, and <strong>Artificial Intelligence</strong>.<br><br><img src='https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png' alt='AWS Certified Cloud Practitioner' style='height:100px;margin:4px;'><img src='https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png' alt='AWS Certified AI Practitioner' style='height:100px;margin:4px;'><img src='https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png' alt='AWS Certified Developer Associate' style='height:100px;margin:4px;'>"
     # Home page posts
     [params.home.posts]
       enable = true
